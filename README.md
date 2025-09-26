@@ -45,9 +45,9 @@ This script:
 
 - Loads CGM profiles
 - Applies compression methods:
-  PN: Peaks & Nadirs
-  PN+: Peaks, Nadirs & Support points
-  Uniform Downsampling
+  - PN: Peaks & Nadirs
+  - PN+: Peaks, Nadirs & Support points
+  - Uniform Downsampling
 - Reconstructs the signals
 - Calculate CGM-derived metrics
 - Evaluates performance (R², MAE, compression ratio, and CGM-derived metrics)
