@@ -5,7 +5,7 @@ This repository accompanies the study:
 
 > *"Peak-Nadir Encoding for Efficient CGM Data Compression and High-Fidelity Reconstruction"*  
 
-[![DOI](https://zenodo.org/badge/849228670.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/1064626052.svg)](https://doi.org/10.5281/zenodo.18129193)
 
 ---
 
