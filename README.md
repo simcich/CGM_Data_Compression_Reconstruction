@@ -18,7 +18,7 @@ Clara Bender, Line Davidsen, Søren Schou Olesen, Simon Lebech Cichosz,
 2026, arXiv:2601.00608
 ```
 
-Paper link: [https://  ](https://arxiv.org/abs/2601.00608)
+Paper link: [ArXiv link](https://arxiv.org/abs/2601.00608)
 
 ## 🚀 Getting Started
 
