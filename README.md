@@ -13,10 +13,12 @@ This repository accompanies the study:
 If you use this code in your research, please cite:  
 
 ```
-No citable content, yet
+Peak-Nadir Encoding for Efficient CGM Data Compression and High-Fidelity Reconstruction,
+Clara Bender, Line Davidsen, Søren Schou Olesen, Simon Lebech Cichosz,
+2026, arXiv:2601.00608
 ```
 
-Paper link: https://  
+Paper link: [https://  ](https://arxiv.org/abs/2601.00608)
 
 ## 🚀 Getting Started
 
