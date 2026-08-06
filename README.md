@@ -13,7 +13,9 @@ This repository accompanies the study:
 If you use this code in your research, please cite:  
 
 ```
-Bender C, Davidsen L, Olesen SS, Cichosz S. Continuous Glucose Monitoring Data Compression Using Peak-Nadir Encoding in Diabetes: Method Development and Evaluation. JMIR Biomed Eng. 2026 Jul 20;11:e91959. doi: 10.2196/91959. PMID: 42476102; PMCID: PMC13384476.
+Continuous Glucose Monitoring Data Compression Using Peak-Nadir Encoding in Diabetes: Method Development and Evaluation.
+Bender C, Davidsen L, Olesen SS, Cichosz S.
+JMIR Biomed Eng. 2026 Jul 20;11:e91959. doi: 10.2196/91959. PMID: 42476102; PMCID: PMC13384476.
 
 Peak-Nadir Encoding for Efficient CGM Data Compression and High-Fidelity Reconstruction,
 Clara Bender, Line Davidsen, Søren Schou Olesen, Simon Lebech Cichosz,
