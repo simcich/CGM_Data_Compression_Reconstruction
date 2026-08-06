@@ -20,7 +20,7 @@ Clara Bender, Line Davidsen, Søren Schou Olesen, Simon Lebech Cichosz,
 2026, arXiv:2601.00608
 ```
 
-Paper link: [JMIR]([https://arxiv.org/abs/2601.00608](https://biomedeng.jmir.org/2026//e91959/)) [ArXiv link](https://arxiv.org/abs/2601.00608)
+Paper link: [JMIR](https://biomedeng.jmir.org/2026//e91959/) [ArXiv link](https://arxiv.org/abs/2601.00608)
 
 ## 🚀 Getting Started
 
